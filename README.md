@@ -1,2 +1,2 @@
-# pyhton_proyect
+# python_proyect
 Proyecto inicial de lenguaje 
